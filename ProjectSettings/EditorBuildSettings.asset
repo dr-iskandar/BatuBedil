@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/splash1.unity
+    guid: 41e2e6efd528c004b9aaaad3bd27cfdb
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 0bb06ef41305453498b9c4fedf26460b
+  - enabled: 1
+    path: Assets/Scenes/informasi.unity
+    guid: 30bc8674c0c6d40489fb1ff65ee3f25e
+  - enabled: 1
+    path: Assets/Scenes/panduan.unity
+    guid: 7d9b426cb6be8bf4ea84da5ac90e6d95
+  - enabled: 1
+    path: Assets/Scenes/fungsitombol.unity
+    guid: 9baebd9026bec7f4182245a09e230653
+  - enabled: 1
+    path: Assets/Scenes/mulaiAR.unity
+    guid: 6b803db72597c80488e855715692d959
+  m_configObjects: {}
